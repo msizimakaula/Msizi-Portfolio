@@ -50,7 +50,7 @@ Used machine learning in Python to flag suspicious electricity meter behavior.
 ## 📚 Education
 
 **Advanced Diploma in Computer Science**  
-Tshwane University of Technology – *Expected 2025*  
+Tshwane University of Technology – *Expected 2026*  
 Relevant Coursework: UX/UI, Data Structures, Software Engineering
 
 **Diploma in Computer Science (Extended)**  
@@ -62,7 +62,7 @@ Relevant Coursework: Web Development, Databases, Object-Oriented Programming
 ## 🧑‍💼 Experience
 
 **Frontend Developer Intern – ICEP** *(Aug 2024 – Present)*  
-- Built alumni engagement platforms in React.js  
+- Built an alumni engagement platform in React.js  
 - Created responsive websites and optimized cross-browser UI
 
 **Academic Tutor & Mentor – TUT** *(2022 – 2024)*  
