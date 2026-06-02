@@ -1,6 +1,6 @@
 # Msizi Makaula (Software Developer💻)
 
-I'm a Computer Science graduate with a passion for solving real-world problems through code. From responsive web design to data analytics and hackathon projects, my journey reflects both technical growth and team collaboration. I'm always open to exciting opportunities in full-stack development, frontend engineering, and DevOps.
+I am a Computer Science graduate with a passion for solving real-world problems through code. From responsive web design to data analytics and hackathon projects, my journey reflects both technical growth and team collaboration. I'm always open to exciting opportunities in full-stack development, frontend engineering, and DevOps.
 
 ---
 
