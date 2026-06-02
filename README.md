@@ -6,7 +6,7 @@ I am a Computer Science graduate with a passion for solving real-world problems 
 
 ## 🔧 Technical Skills
 
-**Languages:** Java, Kotlin, JavaScript, HTML5, CSS3, PHP, SQL, PL/SQL  
+**Languages:** Java, C#, Kotlin, JavaScript, HTML5, CSS3, PHP, SQL, PL/SQL  
 **Frameworks:** React.js, Node.js, Bootstrap, .NET  
 **Databases:** MariaDB, MySQL, PostgreSQL  
 **Tools:** Git, VS Code, IntelliJ, Power BI, Postman, Docker  
