@@ -60,8 +60,12 @@ Relevant Coursework: Web Development, Databases, Object-Oriented Programming
 ---
 
 ## 🧑‍💼 Experience
+**Data & Developer Intern – ICEP** *(Aug 2024 – Sept 2025)*  
+- Responsible for developing and maintaining enterprise applications, implementing new features, fixing bugs, optimizing system performance.
+- Working with SQL databases to build reliable, scalable business solutions.
 
-**Frontend Developer Intern – ICEP** *(Aug 2024 – Present)*  
+  
+**Frontend Developer Intern – ICEP** *(Aug 2024 – Sept 2025)*  
 - Built an alumni engagement platform in React.js  
 - Created responsive websites and optimized cross-browser UI
 
